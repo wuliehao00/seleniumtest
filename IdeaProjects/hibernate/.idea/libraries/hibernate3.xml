@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hibernate3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqljdbc42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

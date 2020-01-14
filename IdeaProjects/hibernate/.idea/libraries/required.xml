@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="required">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/required" />
+      <root url="file://$PROJECT_DIR$/lib/jpa" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jpa" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/required" recursive="false" />
+  </library>
+</component>

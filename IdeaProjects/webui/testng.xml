@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="5" parallel="classes">
+    <test verbose="2" preserve-order="true" name="C:/Users/39738/IdeaProjects/webui">
+        <classes>
+            <class name="com.alibaba.ui.Demo1">
+                <methods>
+                    <include name="test3"/>
+                    <include name="test2"/>
+                    <include name="test4"/>
+                    <include name="test5"/>
+                </methods>
+            </class>
+            <class name="com.alibaba.ui.Demo2">
+                <methods>
+                    <include name="test"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                    <include name="test4"/>
+                    <include name="test5"/>
+                </methods>
+            </class>
+            <class name="com.alibaba.ui.Demo3">
+                <methods>
+                    <include name="test"/>
+                    <include name="tes2"/>
+                    <include name="tes3"/>
+                    <include name="tes4"/>
+                    <include name="tes5"/>
+                    <include name="tes6"/>
+                    <include name="tes7"/>
+                    <include name="tes8"/>
+                    <include name="tes9"/>
+                    <include name="tes10"/>
+                    <include name="tes11"/>
+                    <include name="tes12"/>
+                    <include name="tes13"/>
+                    <include name="tes14"/>
+                </methods>
+            </class>
+            <class name="com.alibaba.ui.Demo4">
+                <methods>
+                    <include name="test"/>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                    <include name="test4"/>
+                    <include name="test5"/>
+                    <include name="test6"/>
+                    <include name="test7"/>
+                    <include name="test8"/>
+                    <include name="test9"/>
+                </methods>
+            </class>
+            <class name="com.alibaba.ui.Demo5">
+                <methods>
+                    <include name="test1"/>
+                    <include name="register"/>
+                    <include name="login"/>
+                    <include name="login_error"/>
+                    <include name="sendMail"/>
+                    <include name="test5"/>
+                    <include name="testdriven"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

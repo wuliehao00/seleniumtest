@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory name="db">
+		<property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+		<property name="hibernate.connection.username">sa</property>
+		<property name="hibernate.connection.password">123456</property>
+		<property name="hibernate.connection.url">jdbc:sqlserver://localhost:1433;databaseName=day05</property>
+		<!-- 打印sql语句-->
+		<property name="show_sql">true</property>
+		<!--格式化sql -->
+		<property name="format_sql">true</property>
+		<!-- 是否自动生成表结构-->
+		<property name="hbm2ddl.auto">update</property>
+		<!-- 事务自动提交-->
+		<property name="hibernate.connection.autocommit">true</property>
+		<!--将session与线程绑定=>只有配置了改配置,才能使用getCurrentSession -->
+		<property name="hibernate.current_session_context_class">thread</property>
+		<!-- 引入ORM映射文件,src后面的文件路径-->
+		<mapping resource="com/alibaba/demo/User.hbm.xml"/>
+	</session-factory>
+</hibernate-configuration>

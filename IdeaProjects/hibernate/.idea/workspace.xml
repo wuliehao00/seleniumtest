@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22956f94-fb73-4ca7-a4b7-b377ba097e32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQjiLGuT4gIFrxB6UiASPVCMBR" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\39738\IdeaProjects\hibernate\src" />
+      <recent name="C:\Users\39738\IdeaProjects\hibernate\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HibernateUtils">
+    <configuration name="HibernateUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alibaba.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.utils.HibernateUtils" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Session_test.fun2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alibaba.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.demo.Session_test" />
+      <option name="METHOD_NAME" value="fun2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.fun1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alibaba.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.demo.Test01" />
+      <option name="METHOD_NAME" value="fun1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HibernateUtils" />
+        <item itemvalue="JUnit.Session_test.fun2" />
+        <item itemvalue="JUnit.Test01.fun1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22956f94-fb73-4ca7-a4b7-b377ba097e32" name="Default Changelist" comment="" />
+      <created>1577192338388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577192338388</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1577286675678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577286675678" />
+    <state x="456" y="97" key="FileChooserDialogImpl" timestamp="1577193738459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="456" y="97" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577193738459" />
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.1.bottom" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.1.center" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.1.left" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state width="1237" height="179" key="GridCell.Tab.1.right" timestamp="1577366464290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577366464290" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1577192662744">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577192662744" />
+    <state x="324" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1577714641495">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="324" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577714641495" />
+    <state x="349" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577193856568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577193856568" />
+    <state x="0" y="0" width="638" height="680" key="find.popup" timestamp="1577630886484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="638" height="680" key="find.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577630886484" />
+    <state x="319" y="188" width="713" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577361197193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="319" y="188" width="713" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577361197193" />
+    <state x="277" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1577630854703">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1577630854703" />
+  </component>
+</project>

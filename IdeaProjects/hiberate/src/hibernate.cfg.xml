@@ -1,0 +1,24 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory name="db">
+		<property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+		<property name="hibernate.connection.username">sa</property>
+		<property name="hibernate.connection.password">123456</property>
+		<property name="hibernate.connection.url">jdbc:sqlserver://localhost:1433;databaseName=day05</property>
+
+		<!-- 打印sql语句 -->
+		<property name="show_sql">true</property>
+		<!--格式化sql语句 -->
+		<property name="format_sql">true</property>
+		<!-- 是否自动生成-->
+
+		<mapping resource="org/hibernate/test/legacy/Simple.hbm.xml"/>
+		<class-cache
+			class="org.hibernate.test.legacy.Simple"
+			region="Simple"
+			usage="read-write"/>
+	</session-factory>
+</hibernate-configuration>
